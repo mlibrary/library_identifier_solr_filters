@@ -1,3 +1,14 @@
+-------
+# ARCHIVED
+
+This only works with Solr up to version 8 and won't be updated any more.
+
+For Solr 9+ see https://github.com/mlibrary/umich-lib-solr-extensions
+
+-----
+
+
+
 # library_identifer_solr_filters
 
 ## Overview
